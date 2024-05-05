@@ -26,9 +26,6 @@
 https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/4b243fd2-8197-4ca8-9b90-323e3cd9009c
 
 
-
-
-
 ##   🔥 2.1.2 Time Picker  🔥
 
 ### Appendix
@@ -53,9 +50,7 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/22ec223c-56eb-4738-
 
 
 
-
-
-## ✔️ 2.1.3 Cupertino Date Picker 
+## 🔥 2.1.3 Cupertino Date Picker 🔥
 ### Appendix
 
 1. __Effortless Integration__: Seamlessly integrate our Flutter Cupertino date picker widget into your project with minimal setup.
