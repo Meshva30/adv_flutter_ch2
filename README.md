@@ -67,12 +67,13 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/22ec223c-56eb-4738-
 ### Screenshots 📷
 
 <div align="left">
-<img src= "" height = 510 width = 240>
+<img src= "https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/498f860e-806c-47e1-9a0e-a75cad872f39" height = 510 width = 240>
 </div>
 
 ### Video Preview 🎥
-//
 
+
+https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/d047898d-100b-4a2e-aef0-e95183a9f5d2
 
 
 
@@ -89,14 +90,15 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/22ec223c-56eb-4738-
 ### Screenshots 📷
 
 <div align="left">
-<img src= "" height = 510 width = 240>
+<img src= "https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/44daa1c2-c8af-4759-bc4b-497c201181fd" height = 510 width = 240>
 </div>
 
 
 
 
-### Video Preview 🎥
 
+### Video Preview 🎥
+https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/f4cae434-78bd-4baf-b017-f32d01e01fd9
 
 
 
