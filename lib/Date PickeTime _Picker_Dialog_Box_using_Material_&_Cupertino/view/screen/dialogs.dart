@@ -4,8 +4,8 @@ import 'package:provider/provider.dart';
 import '../../provider/dialog_provider.dart';
 
 
-class Dialog extends StatelessWidget {
-  const Dialog({super.key});
+class Dialog_Screen extends StatelessWidget {
+  const Dialog_Screen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -19,7 +19,8 @@ class Dialog extends StatelessWidget {
         centerTitle: true,
       ),
       body: Center(
-        child: IconButton(
+
+child : IconButton(
           onPressed: () {
             showDialog(
               context: context,

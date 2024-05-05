@@ -1,10 +1,10 @@
-import 'package:adv_flutter_ch2/Date%20PickeTime%20_Picker_Dialog_Box_using_Material_&_Cupertino/view/screen/timepicker.dart';
+
+import 'package:adv_flutter_ch2/Date%20PickeTime%20_Picker_Dialog_Box_using_Material_&_Cupertino/view/screen/dialogs.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'Date PickeTime _Picker_Dialog_Box_using_Material_&_Cupertino/provider/dialog_provider.dart';
-import 'Date PickeTime _Picker_Dialog_Box_using_Material_&_Cupertino/view/screen/cupertino_action_sheet.dart';
-import 'Date PickeTime _Picker_Dialog_Box_using_Material_&_Cupertino/view/screen/datepicker.dart';
+
 
 void main() {
   runApp(
@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.blueGrey.shade100,
         ),
       ),
-      home: const Dialog(),
+      home: const Dialog_Screen(),
     );
   }
 }
