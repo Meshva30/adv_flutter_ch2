@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../../provider/dialog_provider.dart';
 
 
+
 class Dialog_Screen extends StatelessWidget {
   const Dialog_Screen({super.key});
 
