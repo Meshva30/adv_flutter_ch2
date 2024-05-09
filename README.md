@@ -1,9 +1,9 @@
 
-#  😊  Advance Flutter Chapter 2 😊
+#    Advance Flutter Chapter 2 
 
 
 
-## 🔥 2.1.1 Date Picker 🔥
+##  2.1.1 Date Picker 
 
 ### Appendix
 
@@ -26,7 +26,7 @@
 https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/4b243fd2-8197-4ca8-9b90-323e3cd9009c
 
 
-##   🔥 2.1.2 Time Picker  🔥
+##    2.1.2 Time Picker  
 
 ### Appendix
 
@@ -50,7 +50,7 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/22ec223c-56eb-4738-
 
 
 
-## 🔥 2.1.3 Cupertino Date Picker 🔥
+##  2.1.3 Cupertino Date Picker 
 ### Appendix
 
 1. __Effortless Integration__: Seamlessly integrate our Flutter Cupertino date picker widget into your project with minimal setup.
@@ -70,7 +70,7 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/22ec223c-56eb-4738-
 https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/d047898d-100b-4a2e-aef0-e95183a9f5d2
 
 
-## 🔥 2.1.4 Cupertino ActionSheet 🔥
+##  2.1.4 Cupertino ActionSheet 
 ### Appendix
 
 1. __Seamless Integration__: Integrate our Flutter Cupertino timer picker widget effortlessly into your project for swift time selection.
@@ -90,7 +90,7 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/d047898d-100b-4a2e-
 
 https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/c0647492-bd2e-4c38-be02-646c16216831
 
-##  🔥 2.1.5 Cupertino TimePicker 🔥
+##  2.1.5 Cupertino TimePicker 
 
 ### Appendix
 
@@ -118,7 +118,7 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/25f74480-cee3-455e-
 
 
 
-## 🔥  2.1.6 Dailog  🔥
+##   2.1.6 Dailog  
 ### Appendix
 
 1. __Effortless Integration__: Incorporate our Flutter `Dialog()` widget seamlessly into your project, enabling smooth user interactions with minimal setup.
@@ -137,4 +137,24 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/25f74480-cee3-455e-
 
 ### Video  
 https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e0537c26-6de4-4217-837c-9e58b6cd3f75
+
+
+
+  <h3 align="center">2.3 CupertinoSliverNavigationBar  & CupertinoListTile</h3>
+<p align="center">
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/f9e06bd6-e308-42ce-bb9b-0665295e17d5' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/49d456df-6ea8-4804-9c13-838f5f72817c' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/b592afa7-3f69-4d7e-9c1a-7e6c7f7d1838' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <div align="center">
+    <a href="https://github.com/Meshva30/advflutterch1/tree/master/lib/stepper">👉 📚 Go to dart file 📚 👈</a>
+
+<video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/86ecbed7-add2-449b-b1b1-c2c07b405907" width="400">
+ 
+  </div>
+</p>
+      
+ <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/fe41ac33-0847-4aea-9da0-ce2ffcf43be5" width="400">
+  <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/786a23e5-fdbd-46c2-9345-efbccccb09ee" width="400">
+</p>
 
