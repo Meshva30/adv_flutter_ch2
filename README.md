@@ -147,7 +147,7 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e0537c26-6de4-4217-
   <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/b592afa7-3f69-4d7e-9c1a-7e6c7f7d1838' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <div align="center">
-    <a href="https://github.com/Meshva30/advflutterch1/tree/master/lib/stepper">👉 📚 Go to dart file 📚 👈</a>
+    <a href="https://github.com/Meshva30/adv_flutter_ch2">👉 📚 Go to dart file 📚 👈</a>
 
 <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/86ecbed7-add2-449b-b1b1-c2c07b405907" width="400">
  
