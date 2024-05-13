@@ -16,6 +16,7 @@ class Bottom_Navigation_bar extends StatelessWidget {
           color: Colors.white,
           fontWeight: FontWeight.bold,
         ),
+
         navigationBarButtons: [
           NavigationBarButton(
             text: 'Home',
