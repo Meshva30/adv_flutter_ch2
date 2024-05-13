@@ -2,6 +2,8 @@
 import 'dart:io';
 
 import 'package:adv_flutter_ch2/CupertinoTabBar,%20CupertinoSlider&CupertinoSlidingSegmentedControl/provider/segmentprovider.dart';
+import 'package:adv_flutter_ch2/bottomnavigationbar/provider/bottom_navigation_bar.dart';
+import 'package:adv_flutter_ch2/page_view/view/page_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -16,6 +18,7 @@ import 'CupertinoTabBar, CupertinoSlider&CupertinoSlidingSegmentedControl/view/s
 import 'Cupertino_Widgets/provider/platfrom.dart';
 import 'Cupertino_Widgets/utils/adaptive/adaptive.dart';
 import 'Date PickeTime _Picker_Dialog_Box_using_Material_&_Cupertino/provider/dialog_provider.dart';
+import 'bottomnavigationbar/view/bottom_navigation_bar.dart';
 
 
 void main() {
@@ -39,38 +42,43 @@ void main() {
     ),
   );
 }
-//
-// class MyApp extends StatelessWidget {
-//   const MyApp({super.key});
-//
-//   @override
-//   Widget build(BuildContext context) {
-//     String ans = Platform.operatingSystem;
-//     print(ans);
-//
-//     return MaterialApp(
-//       debugShowCheckedModeBanner: false,
-//       theme: ThemeData.light().copyWith(
-//         datePickerTheme: DatePickerThemeData(
-//           backgroundColor: Colors.blue.shade50,
-//         ),
-//       ),
-//       home: const CustomScroll(),
-//     );
-//   }
-// }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return CupertinoApp(
-      theme: CupertinoThemeData(
-        brightness: Provider.of<SliderProvider>(context).themebrigtness,
+    String ans = Platform.operatingSystem;
+    print(ans);
+
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (context) => BottomNavigationProvider(),)
+      ],
+      child: MaterialApp(
+        debugShowCheckedModeBanner: false,
+        theme: ThemeData.light().copyWith(
+          datePickerTheme: DatePickerThemeData(
+            backgroundColor: Colors.blue.shade50,
+          ),
+        ),
+        home: const Bottom_Navigation_bar(),
       ),
-      debugShowCheckedModeBanner: false,
-      home: Tab_bar(),
     );
   }
 }
+//
+// class MyApp extends StatelessWidget {
+//   const MyApp({super.key});
+//
+//   @override
+//   Widget build(BuildContext context) {
+//     return CupertinoApp(
+//       theme: CupertinoThemeData(
+//         brightness: Provider.of<SliderProvider>(context).themebrigtness,
+//       ),
+//       debugShowCheckedModeBanner: false,
+//       home: Tab_bar(),
+//     );
+//   }
+// }
