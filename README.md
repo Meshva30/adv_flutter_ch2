@@ -184,9 +184,30 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e0537c26-6de4-4217-
 </div>
 <div align="center">  <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/6d36333c-6925-430c-a991-b30f82279267" width="400">
 </div>
+
+
+  <h3 align="center">2.6 Page View & BottomNavigationBar</h3>
+<div align="center">
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/2f505eb8-42eb-4996-b960-7ce8f24f5990' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/cda58b74-3b23-44d7-89cf-0a1cd3908b0a' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+  <div align="center">
+ <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/10e8dc2c-79ed-4981-9ebb-8266d5f86fb5" width="400">
+</div>
+<div align="center">  
+  <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/4b9841c7-ca9c-4b6a-9b88-340039416fee" width="400">
+</div>
+ 
   
 
- 
+
+
+
+
+
+
+
 
 
 
