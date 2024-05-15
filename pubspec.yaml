@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   responsive_navigation_bar: ^4.0.4
   provider: ^6.1.2
+  local_auth: ^2.2.0
+  share_plus: ^9.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -64,7 +66,7 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - assets/img/
+    - assets/img/gallery/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
