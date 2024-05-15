@@ -161,30 +161,32 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e0537c26-6de4-4217-
 
 
   <h3 align="center">2.4 CupertinoTabBar, CupertinoSlider & CupertinoSlidingSegmentedControl</h3>
-<p align="center">
+<div align="center">
   <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/ddfb1d85-262d-4e89-a5d7-035906c32401' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/027eae30-d52c-4595-92e1-ead4597dcafe' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/95c2c5aa-9fb0-47c7-aa3b-eb8278d9ba3e' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
-
- <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e26b7a3e-f97b-4f8d-a063-7d709f8faefb" width="400">
-
+</div>
+ <div><video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e26b7a3e-f97b-4f8d-a063-7d709f8faefb" width="400"></div>
   <div>
-</p>
     <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/4b1f8867-f4ad-473c-922c-83f6e94ba91e" width="400">
   </div>
-   <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/3b476ee9-2e38-4f82-9b3f-27b417ea960d" width="400"> 
-</p>
+<div>   <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/3b476ee9-2e38-4f82-9b3f-27b417ea960d" width="400"> 
+</div>
 
 
+  <h3 align="center">2.5 Page View & BottomNavigationBar</h3>
+<div align="center">
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/fed96945-3746-4af0-b1c2-cc8e652775fa' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
+  <div align="center">
+ <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/c5f0b360-e0db-43c4-9923-f843208aa891" width="400">
+</div>
+<div align="center">  <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/6d36333c-6925-430c-a991-b30f82279267" width="400">
+</div>
+  
 
-
-
-
-
-
-
-
+ 
 
 
 
