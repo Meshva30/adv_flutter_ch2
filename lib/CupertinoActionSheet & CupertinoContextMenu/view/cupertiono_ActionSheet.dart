@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 
 class CupertinoActionSheetScreen extends StatelessWidget {
   const CupertinoActionSheetScreen({super.key});
-
   @override
   Widget build(BuildContext context) {
     return CupertinoPageScaffold(
