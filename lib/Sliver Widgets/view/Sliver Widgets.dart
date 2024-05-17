@@ -46,7 +46,6 @@ class Sliver_Widgets extends StatelessWidget {
       ),
     );
   }
-
   Container ColorContinar(Color color) {
     return Container(
       height: 150,
