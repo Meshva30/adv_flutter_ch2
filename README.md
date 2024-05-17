@@ -62,12 +62,11 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/22ec223c-56eb-4738-
 ### Screenshots 
 
 <div align="left">
-<img src= "https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/498f860e-806c-47e1-9a0e-a75cad872f39" height = 510 width = 240>
+<img src= "https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/b5cd616a-eb55-4e9e-85c3-74e3128dde39" height = 510 width = 240>
 </div>
 
 ### Video 
-
-https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/d047898d-100b-4a2e-aef0-e95183a9f5d2
+https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/701376f0-bb39-414a-ab2c-7b24aa8d1513
 
 
 ##  2.1.4 Cupertino ActionSheet 
