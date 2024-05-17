@@ -44,7 +44,6 @@ class DatePickerSCreen extends StatelessWidget {
                       ),
                     ),
                   ) ?? DateTime.now();
-
                   print(selectedDate);
                 },
                 child: Icon(CupertinoIcons.calendar),
