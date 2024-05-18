@@ -197,8 +197,26 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e0537c26-6de4-4217-
 <div align="center">  
   <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/4b9841c7-ca9c-4b6a-9b88-340039416fee" width="400">
 </div>
+
+
+  <h3 align="center">2.8 Sliver Widgets</h3>
+<div align="center">
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/0143350f-e084-4725-b824-fa0185f6eb13' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/a1c51213-8f9c-4213-b353-c01be986dad3' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+  <div align="center">
+ <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/4849e5be-fe1a-4427-9ee7-8a47ca4cada7" width="400">
+</div>
+<div align="center">  
+  <video src="https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/d856d61d-fed3-4cef-8794-705964fff5d7" width="400">
+</div>
  
+
   
+
+
+
 
 
 
