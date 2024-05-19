@@ -200,6 +200,8 @@ https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/e0537c26-6de4-4217-
 
 
   <h3 align="center">2.8 Sliver Widgets</h3>
+  Sliver is a portion of the scrollable area which is used to achieve a custom scrolling effect. In other words, the sliver widget is a slice of the viewport. We can implement all of the scrollable views, such as ListView, GridView using slivers. It is a lower-level interface that provides excellent control over implementing a scrollable area. It is useful while scrolling large numbers of children widgets in a scrollable area. As they are based on the viewport, it can change their shape, size, and extent based on several events and offset.
+  
 <div align="center">
   <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/0143350f-e084-4725-b824-fa0185f6eb13' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://github.com/Meshva30/adv_flutter_ch2/assets/136339359/a1c51213-8f9c-4213-b353-c01be986dad3' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
